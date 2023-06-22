@@ -1,5 +1,4 @@
 import XCTest
-import SnapshotTesting
 @testable import MeatlessApp
 
 final class ServiceTests: XCTestCase {
